@@ -1,0 +1,30 @@
+{
+  "name": "code-flow-standard-template",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hanxiaobubudian/code-flow-standard-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hanxiaobubudian/code-flow-standard-template/issues"
+  },
+  "homepage": "https://github.com/hanxiaobubudian/code-flow-standard-template#readme",
+  "devDependencies": {
+    "@tsconfig/recommended": "^1.0.3",
+    "@typescript-eslint/eslint-plugin": "^6.4.0",
+    "eslint": "^8.0.1",
+    "eslint-config-standard-with-typescript": "^42.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0 || ^16.0.0 ",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-react": "^7.33.2",
+    "typescript": "*"
+  }
+}
